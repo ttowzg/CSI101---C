@@ -1,3 +1,3 @@
 # CSI101---C
-Here, I'll post all C exercises i've done.
+all C exercises i've done when I started in college.
 hope you enjoy :D
